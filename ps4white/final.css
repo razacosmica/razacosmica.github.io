@@ -1,7 +1,7 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(whitebasemod.png);
-
+   background-image: url(whitebasemod.png);
+   background-size: cover;
 }
 
 /*END PS4 White Controller Styling*/
