@@ -1,11 +1,11 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(waititsallpfps);
+    background-image: url(waititsallpfps.png);
     background-size: cover;
 }
 
 .ds4.white.disconnected {
-    background: url(waititsallpfps);
+    background: url(waititsallpfps.png);
     background-size: cover;
 }
 
