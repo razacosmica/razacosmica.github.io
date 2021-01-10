@@ -30,7 +30,7 @@
 }
 
 .ds4.white .button {
-    background-image: url(CGpfp.png);
+    background-image: url(face.png);
     background-size: cover;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .ds4.white .face {
-    background-image: url(face.png);
+    background-image: url(dpad.png);
     background-size: cover;
 }
 
