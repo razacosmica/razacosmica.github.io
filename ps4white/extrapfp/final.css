@@ -10,17 +10,17 @@
 }
 
 .ds4.white .trigger {
-    background-image: url(CGpfp.png);
+    background-image: url(trigger.png);
     background-size: cover;
 }
 
 .ds4.white .bumper {
-    background-image: url(CGpfp.png);
+    background-image: url(bumper.png);
     background-size: cover;
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(CGpfp.png);
+    background-image: url(touchpad.png);
     background-size: cover;
 }
 
@@ -35,12 +35,12 @@
 }
 
 .ds4.white .stick {
-    background-image: url(CGpfp.png);
+    background-image: url(sticks.png);
     background-size: cover;
 }
 
 .ds4.white .face {
-    background-image: url(CGpfp.png);
+    background-image: url(face.png);
     background-size: cover;
 }
 
